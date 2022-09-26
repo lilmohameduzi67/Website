@@ -1,0 +1,17 @@
+html {
+    background: url("img/photo-1602472097151-72eeec7a3185.avif") no-repeat center fixed;
+    background-size: cover;
+color: azure;
+}
+body {
+    width: 600px;
+    margin: auto; 
+    padding: 10px;
+  
+  }
+  .nav {
+    color: white;
+    font-size: 25px;
+    padding-left: 81px;
+    
+    }
